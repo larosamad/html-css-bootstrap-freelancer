@@ -10,5 +10,6 @@
     background-color: white;
     height: 4px;
     width: 20%;
-    margin: 5px 20px;
+    margin: 5px 10px;
+    border-radius: 3px;
 }
