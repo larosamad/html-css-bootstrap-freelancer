@@ -17,10 +17,23 @@
     background-color: #3A546D;
 }
 
+.petrol-bg{
+    background-color: #2C3E50;
+}
+
+.aqua-txt{
+    color: #1ABC9C;
+}
+
 .half-divider{
     border: 2px solid;
     height: 4px;
     width: 20%;
     margin: 5px 10px;
     border-radius: 3px;
+}
+
+section:last-child .fa-brands{
+    width: 20px;
+    text-align: center;
 }
