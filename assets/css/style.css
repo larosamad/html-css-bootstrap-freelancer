@@ -1,13 +1,24 @@
-.bg-petrol{
-    background-color: #2C3E50;
-}
-
 .bg-aqua{
     background-color: #1ABC9C;
 }
+.bg-aqua:hover{
+    background-color: #1ABC9C;
+}
+.bg-aqua:active{
+    background-color: #1ABC9C;
+}
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 0; 
+    align-items: center;
+}
+
+.nav-bg{
+    background-color: #3A546D;
+}
 
 .half-divider{
-    background-color: white;
+    border: 2px solid;
     height: 4px;
     width: 20%;
     margin: 5px 10px;
