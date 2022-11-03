@@ -33,6 +33,7 @@
 
 .avatar img{
     max-width: 250px;
+    width: 250px;
 }
 
 section:last-child .fa-brands{
