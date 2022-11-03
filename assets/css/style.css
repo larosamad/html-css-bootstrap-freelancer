@@ -4,9 +4,7 @@
 .bg-aqua:hover{
     background-color: #1ABC9C;
 }
-.bg-aqua:active{
-    background-color: #1ABC9C;
-}
+
 .navbar-collapse {
     flex-basis: 100%;
     flex-grow: 0; 
@@ -31,6 +29,10 @@
     width: 20%;
     margin: 5px 10px;
     border-radius: 3px;
+}
+
+.avatar img{
+    max-width: 250px;
 }
 
 section:last-child .fa-brands{
