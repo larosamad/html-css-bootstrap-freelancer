@@ -27,6 +27,7 @@
     border: 2px solid;
     height: 4px;
     width: 20%;
+    max-width: 120px;
     margin: 5px 10px;
     border-radius: 3px;
 }
@@ -34,6 +35,10 @@
 .avatar img{
     max-width: 250px;
     width: 250px;
+}
+
+.form-control{
+    border: 0px;
 }
 
 section:last-child .fa-brands{
