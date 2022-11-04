@@ -43,5 +43,7 @@
 
 section:last-child .fa-brands{
     width: 25px;
+    height: 25px;
+    line-height: 25px;
     text-align: center;
 }
